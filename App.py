@@ -8,10 +8,6 @@ import pyotp
 import qrcode
 import traceback
 
-from Crypto.Random import get_random_bytes
-key = get_random_bytes(32) # 32 bytes * 8 = 256 bits (1 byte = 8 bits)
-print(key)
-
 # TODO:
 # 1. Reload the password manager when an entry gets entered into the database
 # 2. Make sure when both the password manager and password entry closes, close
