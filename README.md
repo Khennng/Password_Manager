@@ -6,7 +6,8 @@ All of the code written for our project were implemented from tutorials and info
 
 Sources and websites use for the completion of the Project:
 
-**Angela Yu Udemy course - 100 days of Python **
+**Angela Yu Udemy course - 100 days of Codes **
+https://www.udemy.com/course/100-days-of-code/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Python_Search_la.EN_cc.US_PP_Control&utm_content=deal4584&utm_term=_._ag_141124569012_._ad_594266299587_._kw__._de_c_._dm__._pl__._ti_dsa-1652644802545_._li_9032533_._pd__._&matchtype=&gclid=CjwKCAjwloynBhBbEiwAGY25dGojI1zC_cGVdt9SDA20OVPLTPqywM1g5twWgDuqw1u9Zf8KLjqSqxoCtrIQAvD_BwE
 
 
 **Python**
